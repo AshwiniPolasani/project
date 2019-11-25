@@ -1,0 +1,7 @@
+create table users(First_Name varchar(255),Last_Name varchar(255),Company_Name varchar(255),EmailAddress varchar(255),Phone number(10),Address varchar(255),Country varchar(255),Apartment varchar(255),City varchar(255),District varchar(255),Postcode number(10));
+
+
+create table Customers(USERNAME varchar2(30),EMAIL varchar2(30),PASSWORD varchar2(30),PHONE_NO varchar2(30));
+
+create table rate(total number);
+
