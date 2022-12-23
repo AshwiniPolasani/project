@@ -5,3 +5,4 @@ create table Customers(USERNAME varchar2(30),EMAIL varchar2(30),PASSWORD varchar
 
 create table rate(total number);
 
+create table rate(total list);
